@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [14/Jun/2018:21:49:07 +0800] "GET /demo?theFunction=efg&_=1528984147520 HTTP/1.1" 200 31 http-bio-8081-exec-1 126
+0:0:0:0:0:0:0:1 - - [14/Jun/2018:21:49:34 +0800] "GET /demo?theFunction=showData&_=1528984174799 HTTP/1.1" 200 37 http-bio-8081-exec-2 7
