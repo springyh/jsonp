@@ -17,7 +17,7 @@ public class Demo1Controller {
 //	}
 //	
 	/**
-	 * jsonp跨域请求写法
+	 * jsonp跨域请求写法  demo2项目中index中ajax发送的请求,请求的是这里
 	 */
 	
 	@RequestMapping("demo")
